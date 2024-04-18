@@ -1,0 +1,5 @@
+Text,Label,Cleaned_Text,Encoded_Label
+This is the first document.,A,first document,0
+This document is the second document.,B,document second document,1
+And this is the third one.,C,third one,2
+Is this the first document?,A,first document,0
